@@ -1,0 +1,24 @@
+header{
+    background-color: lightblue;
+    padding: 2px;
+    text-align: center;
+}
+aside
+{
+    background-color: lime;
+}
+main{
+    background-color: tomato;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+footer{
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+}
+section{
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid black;
+}
