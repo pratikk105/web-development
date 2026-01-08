@@ -1,0 +1,39 @@
+.small-text {
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 800;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: dotted;
+    text-align: center;
+}
+
+.loremm {
+    line-height: 2.8;
+    border: 2px solid red;
+    overflow: hidden;
+    width: 200px;
+    text-overflow: ellipsis;
+}
+
+.medium-text {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+h1{
+    color : red
+}
+h2{
+    color :rgb(28, 160, 79)
+}
+h3{
+    color : #eb4034
+}
+h4{
+    color : rgba(235, 9, 243, 0.5)
+}
+h5{
+    color : hsl(240, 67%, 65%)
+}
