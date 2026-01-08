@@ -1,0 +1,32 @@
+    div {
+        background-color: aqua;
+    }
+
+    .select {
+        background-color: pink;
+    }
+
+    #select2 {
+        background-color: lightgreen;
+    }
+   /* div > p {
+        background-color: yellow;
+    }
+
+    div  p {
+        background-color: orange;
+    }*/
+
+    a:active{
+       color: red;
+    }
+
+    a:visited {
+        color: purple;
+    }
+    a:link{
+        color: green;
+    }
+
+
+
