@@ -1,0 +1,24 @@
+div:first-child p:first-child { 
+    background-color: rgb(255, 215, 16);
+    color: rgb(252, 0, 0);
+}
+div:nth-child(1) p:nth-child(2) {
+    background-color: rgb(16, 255, 64);
+    color: rgb(237, 240, 237);
+}
+div:nth-child(1) p:nth-child(3) {
+    background-color: rgb(16, 64, 255);
+    color: rgb(212, 212, 219);
+}
+div:nth-child(2) p:first-child {
+    background-color: rgb(255, 16, 235);
+    color: rgb(240, 212, 237);
+}
+div:nth-child(2) p:nth-child(2) {
+    background-color: rgb(16, 255, 235);
+    color: rgb(12, 237, 240);
+}
+div:nth-child(2) p:nth-child(3) {
+    background-color: rgb(235, 16, 255);
+    color: rgb(237, 12, 240);
+}
