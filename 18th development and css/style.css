@@ -1,0 +1,12 @@
+p{
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+    outline-offset: 5px;
+    outline: 2px solid red;
+    text-shadow: 2px 2px 5px blue;
+    background-color: rgb(13, 128, 229);
+    box-shadow: 5px 5px 10px grey;
+    padding: 1px;
+    color: white;
+}
