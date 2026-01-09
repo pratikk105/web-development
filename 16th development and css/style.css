@@ -1,0 +1,12 @@
+p{
+    font-size : 6vw;
+}
+.para{
+    font-size : 8vh;
+}
+body{
+    font-size : 10vmin;
+}
+#1me{
+    font-size : 12vmax;
+}
