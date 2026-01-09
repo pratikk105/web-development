@@ -1,0 +1,25 @@
+.red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.red.yellow{
+    color: orange;
+}
+.red.blue{
+    color: purple;
+}
+.yellow.blue{
+    color: green;
+}
+.red.yellow.blue{
+    color: rgb(135, 244, 10);
+}
+h1.yellow{
+    color: rgb(146, 102, 86);
+}
+/*this is how CSS specificity works. The more specific the selector, the higher priority it has.*/
