@@ -1,0 +1,15 @@
+   :root {
+            --main-color: blue;
+            --sizes: 20px;
+            --background-color: lightgray;
+        } 
+
+        div{
+
+            --main-color: red;
+            border: 2px solid var(--main-color);
+            padding: var(--sizes);
+            margin: var(--sizes);
+            background-color: var(--background-color);
+
+        }
