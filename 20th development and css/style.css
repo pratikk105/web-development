@@ -1,0 +1,33 @@
+div{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    padding: 16px;  
+    box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.2);
+   
+   
+    border-radius: 10px;
+    background-color: rgb(220, 169, 169);
+}
+div button{
+    border-radius: 20px;
+    
+    
+    padding: 14px 20px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    width: 60%;
+    font-size: 18px;
+    border-radius: 5px;
+}
+div button{
+    background-color: #5c4f4f;
+}
+div img
+{
+    width: 90%;
+    border-radius: 10px 10px 10px 10px;
+}
